@@ -16,3 +16,7 @@ bluecarrot16 | [LPC] Birds | https://opengameart.org/content/lpc-birds
 LordNeo | Weapons [64x64] | https://opengameart.org/content/weapons-64x64
 Justin Nichol | Fantasy Items Set | https://opengameart.org/content/fantasy-items-set
 Scrittl | Armor Icons 32x32 px (painterly) | https://opengameart.org/content/armor-icons-32x32-px-painterly
+para | Animated particle effects #2 | https://opengameart.org/content/animated-particle-effects-2
+David E. Gervais | Roguelike Tiles (large collection) | https://opengameart.org/content/roguelike-tiles-large-collection
+
+
