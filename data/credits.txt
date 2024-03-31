@@ -21,6 +21,6 @@ David E. Gervais | Roguelike Tiles (large collection) | https://opengameart.org/
 yuieou | Goblin - Monster Cartoon | https://www.cleanpng.com/png-goblin-troll-gorilla-monster-ogre-beast-vector-mon-7143035/
 Jerom | 32x32 fantasy tileset | https://opengameart.org/content/32x32-fantasy-tileset
 Chris Hamons, MedicineStorm | Dungeon Crawl 32x32 tiles | https://opengameart.org/node/12210
-
+AntumDeluge | CC0 Ranged Icons | https://opengameart.org/content/cc0-ranged-icons
 
 
