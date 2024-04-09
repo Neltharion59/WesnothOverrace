@@ -28,4 +28,7 @@ MrBeast & Redshrike | Rat men, RPG Enemies | https://opengameart.org/content/rat
 Dreazer | Flintlock Pistol | https://opengameart.org/content/flintlock-pistol
 bluecarrot16 | [LPC] Pirates | https://opengameart.org/content/lpc-pirates
 Splendid | Musket Rifle Animation | https://opengameart.org/content/musket-rifle-animation
+qubodup | Rat Monster Screams | https://opengameart.org/content/rat-monster-screams
+qubodup | Squeaky Rat | https://opengameart.org/content/squeaky-rat
+
 
