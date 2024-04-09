@@ -24,5 +24,8 @@ Chris Hamons, MedicineStorm | Dungeon Crawl 32x32 tiles | https://opengameart.or
 AntumDeluge | CC0 Ranged Icons | https://opengameart.org/content/cc0-ranged-icons
 Clint Bellanger | Flare weapon icons 2 | https://opengameart.org/content/flare-weapon-icons-2
 LudicArts | Handpainted RPG icons | https://opengameart.org/content/handpainted-rpg-icons
-
+MrBeast & Redshrike | Rat men, RPG Enemies | https://opengameart.org/content/rat-men-rpg-enemies
+Dreazer | Flintlock Pistol | https://opengameart.org/content/flintlock-pistol
+bluecarrot16 | [LPC] Pirates | https://opengameart.org/content/lpc-pirates
+Splendid | Musket Rifle Animation | https://opengameart.org/content/musket-rifle-animation
 
