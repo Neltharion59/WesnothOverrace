@@ -30,5 +30,5 @@ bluecarrot16 | [LPC] Pirates | https://opengameart.org/content/lpc-pirates
 Splendid | Musket Rifle Animation | https://opengameart.org/content/musket-rifle-animation
 qubodup | Rat Monster Screams | https://opengameart.org/content/rat-monster-screams
 qubodup | Squeaky Rat | https://opengameart.org/content/squeaky-rat
-
+LordNeo | Staff [64 x64] | https://opengameart.org/content/staff-64-x64
 
