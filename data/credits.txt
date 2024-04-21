@@ -31,4 +31,8 @@ Splendid | Musket Rifle Animation | https://opengameart.org/content/musket-rifle
 qubodup | Rat Monster Screams | https://opengameart.org/content/rat-monster-screams
 qubodup | Squeaky Rat | https://opengameart.org/content/squeaky-rat
 LordNeo | Staff [64 x64] | https://opengameart.org/content/staff-64-x64
+Redshrike | LPC in battle RPG sprites | https://opengameart.org/content/lpc-in-battle-rpg-sprites
+Jesse McCarthy | Grue | https://opengameart.org/content/grue
+gilgaphoenixignis | Sotrak Rewop | https://opengameart.org/content/sotrak-rewop
+Stephen Challener (Redshrike) | Evil pumpkin (halloween! ff6-ish styled enemy, or other.) | https://opengameart.org/content/evil-pumpkin-halloween-ff6-ish-styled-enemy-or-other
 
